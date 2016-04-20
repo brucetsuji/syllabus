@@ -9,9 +9,9 @@ permalink: /
 
 **Department of Psychology**
 
-**MOOC Master**
+**Ottawa, Ontario, CANADAr**
 
-## Course Number: Introduction to Psychology I: PSYC1001P/Q/Y/Z
+## Course Number: Introduction to Psychology I: PSYC1001P/Q/Y/Z & companion courses PSYC1002P/Q/Y/Z
 
 **F2016**
 
@@ -67,7 +67,6 @@ _Consider including how each Learning Outcome will be assessed._
 
 _Weiten, W., & McCann, D. (2016). Psychology: Themes & variations. 4th Canadian ed. Toronto, ON: Nelson. (Buy, rent, borrow, or share it.)  
 
-_If you have a long list of readings, please use an Appendix at the back of the syllabus._  
   
 
 ### Teaching Philosophy:
@@ -84,10 +83,19 @@ _In addition to your expectations for the students consider including what they 
 
 ### Learning Activities and Assessment
 
-_Provide a short description of the learning activities and assessments that will be used in the course._
+_Your evaluation in this course is more complicated than many others and it is also different from PSYC1001 Open Access.  Please make certain that you understand this section.
  
 
 **Assessments** 
+Self-Tests: There are 66 Modules in PSYC1001P/Q/Y/Z with a Self-test after each.  Each Self-test is worth 0% of your final grade but you must earn 50% or greater on each Chapter’s Self-tests before you can access the Chapter Quiz.
+Chapter Quiz: Each Chapter has a Quiz that you can try twice.  Each Quiz has 10 questions drawn from a larger pool.  Chapter 0 has a Quiz worth 4%.  Chapters 1-8 also have Quizzes that you can try twice and cuLearn will store the average of both tries (or one try if you only try once).  The maximum you can earn on each Chapter 1-8 Quiz is 2%. Adding Chapter 0 plus Chapters 1-8, you can earn 20% of your final grade on Quizzes.
+Open Question: I will ask Open Questions in the video Modules and all of these are listed in the Open Question document on cuLearn.  Pick one that interests you and write a 400-1000 word paper and submit it via the cuLearn Assignment Dropbox.  The Open Question is worth up to 5% and is due at any time before the end of the course.  
+Exams: There are 4 exams in this course, each consisting of multiple-choice questions drawn from a larger pool. You have 1 try per Exam.  Exams will include approximately 60% of material that is in both the text and in lectures; 30% from the text only; and 10% from the lecture only.  All exams are non-cumulative. It is expected that you take the exams by yourself and with no notes or text.
+Exam 1 has 60 questions and is worth 14%. Take Exam 1 any time after you have earned 40% or greater on Quiz 0, Quiz 1, and Quiz 2 (from Chapter 0, 1, 2).  You will have 60 minutes to complete Exam 1.
+Exam 2 has 60 questions and is worth 19%.  Take Exam 2 any time after you have earned 40% or greater on Quiz 3 and Quiz 4 (Chapters 3 and 4) and if you earned 25% or greater on Exam 1.  You will have 60 minutes to complete Exam 2. 
+Exam 3 has 60 questions and is worth 19%.  Take Exam 3 any time after you have earned 40% or greater on Quiz 5 and Quiz 6 (Chapters 5 and 6) and if you earned 25% or greater on Exam 2. You will have 60 minutes to complete Exam 3.
+Exam 4 has 60 questions and is worth 19%.  You can take Exam 4 any time after you have earned 40% or greater on Quiz 7 and Quiz 8 (Chapters 7 and 8) and if you earned 25% or greater on Exam 3. You will have 60 minutes to complete Exam 4.  Exam 4 must be completed before 23:59 on June 14, 2016.
+Since you determine when you take Quizzes and Exams there should be no reason for you to miss them.  If something befalls you in the middle of an exam I will grant you a deferral only if you provide documentation to support your claim.  Illness and bereavement are the only acceptable reasons.  If you need a deferral for one of these reasons email the appropriate documentation to me within 24 hours. It is your responsibility to ensure that your internet connection is reliable for the duration of an online exam.  All course lectures, quizzes, exams, and assignments close and are due no later than 23:59 on June 14, 2016
 
  
 
