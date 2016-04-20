@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Course Syllabus
+# PSYC1001P/Q/Y/Z Flex Term Course Syllabus
 
 **Carleton University**
 
@@ -11,7 +11,7 @@ permalink: /
 
 **MOOC Master**
 
-## Course Number: Introduction to Psychology I
+## Course Number: Introduction to Psychology I: PSYC1001P/Q/Y/Z
 
 **F2016**
 
@@ -34,13 +34,15 @@ information]
   
 **Course Meeting Time and Location**: _Online_
 
-**Course Prerequisite**: _None_
+**Course Prerequisite**: _By permission of instructor_
 
-**Course Delivery**: _Online, Blended, Flipped_  
+**Course Delivery**: _Online_  
 
 **Course Description**:  
 
-_In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
+_PSYC1001P/Q/Y/Z will introduce you to psychology by reviewing its history and its research methods and then take you through the building blocks of brain mechanisms, sensation, perception, learning, memory, & cognition.  This will prepare us to tackle some of the more observable elements of human behavior in PSYC1002.
+Like PSYC1001 Open Access, this course is totally online with no physical classroom or required meeting times!  It is self-paced; you determine when to view Modules, take Quizzes, and Exams. DO NOT TAKE THIS COURSE if you cannot manage your time—instead please enroll in a face-to-face version of Intro Psych such as PSYC1001A or B.  However, if you are really busy, then PSYC1001P/Q/Y/Z is made for you.  This web course allows flexibility around your other life commitments and some exceptional students have been able to finish it successfully in as little as a couple of weeks. 
+Depending on when you enrol, you will be assigned to one of PSYC1001P or Q or Y or Z.  These are called Flex Term courses because you may enrol at any time and depending on your time of enrolment you may have up to 2 consecutive semesters to complete it.  You may enrol in Flex Term courses only if you are a Carleton University Special Student and you were previously in an Open Access course.  Details are provided at http://carleton.ca/psychology/online-flexterm/ _
 
 **Course Goals**:  
 
