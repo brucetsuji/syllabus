@@ -5,28 +5,28 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Carleton University**
 
-**College**
+**Department of Psychology**
 
-**Unit**
+**MOOC Master**
 
-## Course Number: Course Title
+## Course Number: Introduction to Psychology I
 
-**Semester Year**
+**F2016**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Instructor: **Dr. Bruce H. Tsuji**   
+**Office**: Loeb A823
+**Email**:  bruce.tsuji@carleton.ca
 
-**Phone**:  
-**Office Hours**: Date, Time, Location  
+**Phone**:  613.520.2600 Ext 1940
+**Office Hours**: Wed, 12-13:30, Loeb A823  
 
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
 
-**Learning Management System**:  
+**Learning Management System**:  cuLearn
 
 **Other**: [Action Center, Course Web Site, Other contact
 information]  
