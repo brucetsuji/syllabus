@@ -65,7 +65,7 @@ _Consider including how each Learning Outcome will be assessed._
 
 ### Texts and Materials:
 
-_List all of the text(s), materials, and any software for the course.  Be specific as to whether the item is required, recommended, or optional. It is not mandatory to have a required text for your course.  Follow the format customary to your discipline._
+_Weiten, W., & McCann, D. (2016). Psychology: Themes & variations. 4th Canadian ed. Toronto, ON: Nelson. (Buy, rent, borrow, or share it.)  
 
 _If you have a long list of readings, please use an Appendix at the back of the syllabus._  
   
